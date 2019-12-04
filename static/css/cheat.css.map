@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAKA,+EAAgF;EAC5E,KAAK,EAAE,IAAI;;AAKf,cAAe;EACX,MAAM,EAAE,MAAM;;AAKlB,yBAA0B;EACtB,MAAM,EAAE,KAAK",
+"sources": ["sass/cheat.scss"],
+"names": [],
+"file": "cheat.css"
+}

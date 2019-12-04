@@ -20,13 +20,5 @@ div.col-lg-1:nth-child(2) {
 
   div.d-flex:nth-child(1) {
     display: initial !important; } }
-div.col-6:nth-child(1) > div:nth-child(1) > div:nth-child(1) > img:nth-child(1) {
-  width: 100%; }
 
-aside.col-lg-1 {
-  height: 1400px; }
-
-div.col-lg-1:nth-child(2) {
-  height: 200px; }
-
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=media.css.map */

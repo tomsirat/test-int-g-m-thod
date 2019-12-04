@@ -1,0 +1,23 @@
+// CHUT.. //
+$container-width : 70%;
+$container-margin : auto;
+
+//  CECI EST L'IMG DANS L'AGENDA QUE JE N'ARRIVE PAS A MODIFIER //
+div.col-6:nth-child(1) > div:nth-child(1) > div:nth-child(1) > img:nth-child(1) {
+    width: 100%;
+}
+//  CECI EST L'IMG DANS L'AGENDA QUE JE N'ARRIVE PAS A MODIFIER //
+
+//  ASIDE DE MERDE //
+aside.col-lg-1 {
+    height: 1400px;
+}
+// ASIDE DE MERDE //
+
+// DROPDOWN DE MERDE //
+div.col-lg-1:nth-child(2) {
+    height: 200px;
+}
+// DROPDOWN DE MERDE //
+
+

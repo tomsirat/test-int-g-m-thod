@@ -1,0 +1,27 @@
+@import "cheat.scss";
+
+@media screen and (min-width: 1023px) {
+
+    body {
+        width: $container-width;
+        margin: $container-margin;
+    }
+   
+}
+
+@media screen and (min-width: 739px) and (max-width: 1023px) {
+
+    .container-agd {
+        flex-wrap: wrap-reverse ;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 719px) {
+
+    .container-agd {
+        flex-wrap: wrap-reverse ;
+    }
+    div.d-flex:nth-child(1) {
+        display: initial !important ;
+    }
+}
