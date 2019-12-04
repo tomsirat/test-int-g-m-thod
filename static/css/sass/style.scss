@@ -1,4 +1,19 @@
 @import "media.scss";
 @import "cheat.scss";
 
+#dropdownMenuButton {
+    border-radius: initial;
+    
+}
 
+#navbarDropdown {
+    text-align: center;
+}
+
+.navbar-toggle {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
